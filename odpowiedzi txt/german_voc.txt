@@ -1,0 +1,72 @@
+pole kempingowe                 -r Campingplatz 
+hostel                          -s Hostel 
+schronisko mlodziezowe          -e Jugendherberge 
+pensjonat                       -e Pension 
+meldunek, rejestracja           -e Anmeldung 
+pobyt                           -r Aufenthalt 
+wypelniac 			-ausfUllen
+lazienka 			-s Bad 
+pokoj dwuosobowy 		-s Doppelzimmer 
+prysznic 			-e Dusche 
+meldowac sie 			-einchecken
+pokoj jednoosobowy 		-s Einzelzimmer
+sniadanie 			-s FrUhstUck 
+lacze internetowe 		-r Internetanschluss 
+noc 				-e Nacht 
+rezerwowac 			-reservieren
+rezerwacja 			-e Reservierung 
+nocowac 			-Ubernachten
+nocleg 				-e Ubernachtung 
+spedzac 			-verbringen
+
+pokoj 				-s Zimmer 
+rozczarowany 			-enttAuscht
+telewizor 			-r Fernseher
+hotel 				-s Hotel 
+popsuty 			-kaputt
+klimatyzacja 			-e Klimaanlage 
+parking 			-r Parkplatz 
+personel 			-s Personal
+zly 				-schlecht
+brudny 				-schmutzig
+zadowolony 			-zufrieden
+
+dokument tozsamosci 		-r Ausweis
+bilet na podroz 		-e Fahrkarte
+lot 				-r Flug
+paszport 			-r Pass
+przewodnik 			-r ReisefUhrer
+trasa 				-e Route
+plecak 				-r Rucksack
+plan miasta 			-r Stadtplan
+podroz marzen 			-e Traumreise
+zwiedzac 			-besichtigen
+odwiedzac 			-besuchen
+jezdzic autostopem 		-per Anhalter fahren
+wypoczywac 			-sich erholen
+jezdzic za granice 		-ins Ausland fahren
+wspinac sie 			-klettern
+zeglowac 			-segeln
+opalac sie 			-sich sonnen
+nurkowac 			-tauchen
+
+drzewo 				-r Baum
+dzungla 			-r Dschungel
+lodowiec 			-r Gletscher
+niebo 				-r Himmel
+oaza 				-e Oase
+palma 				-e Palme
+piasek 				-r Sand
+snieg 				-r Schnee
+wichura 			-r Sturm
+las 				-r Wald
+fala 				-e Welle
+pustynia 			-e WUste
+
+korzystac 			-benutzen
+gosc 				-r Gast
+wyjasniac 			-klAren
+halas 				-r LArm
+narzekac 			-sich beschweren
+nieprzyjemny 			-unangenehm
+nieznosny 			-unertrAglich
